@@ -1,0 +1,6 @@
+{
+  "name": "ClearFrame — Free Unlimited Video Watermark Remover",
+  "description": "Remove Gemini sparkle marks, corner logos, and text overlays from videos right in your browser. Unlimited, completely free, private local processing with zero registration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
